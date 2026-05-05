@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Vivek</h1>
-<h3 align="center">💥 Code. Build. Repeat. | Marvel Mode ON 🦸</h3>
+<h1 align="center">Hi 👋, I'm Vivek Rathore</h1>
+<h3 align="center">💥 Full Stack Developer | MERN | Backend Enthusiast 🦸</h3>
 
 <p align="center">
-  🚀 MERN Stack Developer | 🧠 DSA Learner | ⚡ Backend Enthusiast
+  🚀 Building scalable apps | 🧠 Learning DSA | ⚡ Exploring System Design
 </p>
 
 ---
@@ -23,16 +23,29 @@
 ---
 
 ### 🧠 About Me
-- 🚀 Currently working on **MERN & Backend Projects**
-- 🧠 Exploring **DSA & System Design**
+- 🚀 Working on **MERN Stack Projects**
+- 🧠 Practicing **DSA & Problem Solving**
+- ⚙️ Interested in **Backend & System Design**
 - 🦸 Marvel Fan | *Iron Man Mindset* 💯  
 
 ---
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,mongodb,python,git,express,playwright,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,mongodb,express,python,git,playwright,postman,vscode" />
 </p>
+
+---
+
+### 🚀 Featured Project
+
+💸 **Expense Splitter (Splitwise Clone)**  
+🔗 https://expense-spliter-taupe.vercel.app/  
+
+- Group expense management  
+- Smart settlement system  
+- Notification system  
+- UPI payment support  
 
 ---
 
@@ -48,7 +61,7 @@
 
 ---
 
-### 🦸‍♂️ Marvel Mode
+### 🦸 Marvel Mode
 
 > *"Sometimes you gotta run before you can walk."* – Iron Man  
 
