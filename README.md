@@ -1,12 +1,23 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1635805737707-575885ab0820?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Marvel Banner"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Vivek</h1>
 <h3 align="center">💥 Code. Build. Repeat. | Marvel Mode ON 🦸</h3>
 
 <p align="center">
   🚀 MERN Stack Developer | 🧠 DSA Learner | ⚡ Backend Enthusiast
+</p>
+
+---
+
+### 🌐 Connect with me
+<p align="center">
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://leetcode.com/your-username">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
+  </a>
 </p>
 
 ---
@@ -20,7 +31,7 @@
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,mongodb,python,git,express,playwright,postman" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,mongodb,python,git,express,playwright,postman,vscode" />
 </p>
 
 ---
