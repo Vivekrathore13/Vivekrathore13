@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.jpg" alt="Marvel Banner" width="100%" />
+  <img src="https://images.unsplash.com/photo-1635805737707-575885ab0820?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Marvel Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Vivek</h1>
@@ -20,19 +20,19 @@
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,mongodb,python,git,express" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,mongodb,python,git,express,playwright,postman" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivekrathore13&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekrathore13&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vivekrathore13&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekrathore13&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivekrathore13&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivekrathore13&theme=tokyonight" height="150"/>
 </p>
 
 ---
